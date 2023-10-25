@@ -1,0 +1,17 @@
+main {
+    padding: 30px;
+    font-family: "Poppins";
+}
+a.btn {
+    text-decoration: none;
+    color: #fff; /*white*/
+    padding: 10px 20px;
+    border-radius: 27px;
+    margin: 15px;
+}
+.task{
+    background-color: rgb(20,170,245,255);
+}
+.section{
+    background-color: rgb(230, 230, 230);
+}
