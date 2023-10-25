@@ -4,7 +4,7 @@ main {
 }
 a.btn {
     text-decoration: none;
-    color: #fff; /*white*/
+    color: #000000;
     padding: 10px 20px;
     border-radius: 27px;
     margin: 15px;
@@ -14,4 +14,41 @@ a.btn {
 }
 .section{
     background-color: rgb(230, 230, 230);
+}
+
+a.ind {
+    text-decoration: none;
+    color: black;
+
+}
+
+a.btt {
+    text-decoration: none;
+    color: #000000;
+    padding: 0px 5px;
+    border-radius: 27px;
+    margin: 15px;
+}
+.ed{
+    background-color: rgb(9,169,237,255);
+}
+
+.gg{
+    background-color: rgba(171,93,230,255);
+}
+
+.rec{
+    background-color: rgba(44,198,171,255);
+}
+
+.mob{
+    background-color: rgba(255,155,0,255);
+}
+
+.web{
+    background-color: rgba(236,74,157,255);
+}
+
+.sale{
+    background-color: rgba(163,209,22,255);
 }
