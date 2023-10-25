@@ -1,3 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+li{
+    padding: 10px 0 10px 0;
+}
+
+.font{
+    font-family: 'Inter', sans-serif;
+}
+.titles{
+    font-size: larger;
+    font-weight: bold;
+}
+
+.bg-white{
+    background-color: white;
+    box-shadow: 10px 10px 30px rgba(148, 147, 147, 0.785);
+}
+
+.bg-grey{
+    background-color: rgb(227, 223, 223);
+}
+
 main {
     padding: 30px;
     font-family: "Poppins";
@@ -8,12 +35,14 @@ a.btn {
     padding: 10px 20px;
     border-radius: 27px;
     margin: 15px;
+    display: inline-block;
 }
 .task{
     background-color: rgb(20,170,245,255);
+
 }
 .section{
-    background-color: rgb(230, 230, 230);
+    background-color: rgb(255, 255, 255);
 }
 
 a.ind {
@@ -51,4 +80,8 @@ a.btt {
 
 .sale{
     background-color: rgba(163,209,22,255);
+}
+.m20{
+    margin:30px 200px 0 200px;
+    border-radius: 1%;
 }
